@@ -1,4 +1,4 @@
 # apanacollage-demo
 this is my first repository
 <br>
-Author - vishal anjay gore
+Author - vishal gore (student of COCSIT)
